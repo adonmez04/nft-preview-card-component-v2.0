@@ -1,1 +1,1 @@
-# nft-preview-card-component-v2.0
+# my-css-structure-template
